@@ -33,3 +33,20 @@ main{
 	border-radius: 8px;
 	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+.entrada•blog h2 {
+	color: #007bff;
+	margin-top: 0;
+}
+.entrada-blog . fecha {
+	font-styte: italic;
+	color: #777;
+	font-size: 0.9ren;
+}
+.entrada.blog a {
+	color: #007bff;
+	text-decoration: none;
+	font-weight: bold;
+}
+.entrada.blog a:hover {
+	text-decoration: underline;
+}
